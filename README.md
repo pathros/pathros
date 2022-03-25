@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pathros
 - 👀 I’m interested in
   - System information development and deployment with Laravel and Docker
-  - Blog deployment with Wordpress
+  - Blog development with Laravel Filament - Laravel Canva
   - Database administration
   - Analytics and big data from databases with SQL
   - Server infrastructure
